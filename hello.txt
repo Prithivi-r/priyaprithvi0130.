@@ -1,2 +1,1 @@
-hello git
-this is a git tutorial.
+hello,git
